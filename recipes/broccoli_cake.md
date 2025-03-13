@@ -17,6 +17,7 @@
 - Fine sea salt
 - Freshly ground black pepper
 
+![broccoli cake](recipes/broccoli_cake.jpg)
 
 ## Instructions
 
